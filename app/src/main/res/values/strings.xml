@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NashGame5</string>
+    <string name="enter_size">Введите размер матрицы</string>
+    <string name="input_hint">Введите число</string>
+    <string name="button_enter">Подтвердить</string>
+    <string name="button_find">Найти</string>
+    <string name="text_title">Введите пары чисел, как указано в подсказке</string>
+    <string name="image_button_hint">Hint</string>
+</resources>
